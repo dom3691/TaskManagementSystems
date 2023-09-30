@@ -2,7 +2,6 @@
 {
     public class TaskListDTO : CreateTaskDTO 
     {
-
         public DateTime StartDate { get; set; }
         public DateTime DueDate { get; set; }
         public DateTime EndDate { get; set; }
